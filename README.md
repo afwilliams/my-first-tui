@@ -1,5 +1,8 @@
 # GitHub Search TUI
 
+<img width="1408" height="720" alt="screenrecording-2026-07-01_09-11-59-720p" src="https://github.com/user-attachments/assets/b89389cc-34fb-431b-9672-2e00d4bb22d2" />
+
+
 A terminal user interface built with [OpenTUI](https://github.com/anomalyco/opentui) for searching GitHub users from the command line.
 
 ## Features
